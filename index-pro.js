@@ -18,7 +18,7 @@ const cssContent = `.z-0{z-index:0}.z-10{z-index:10}.z-20{z-index:20}.z-30{z-ind
 const styleElement = $('<style type="text/css"></style>');
 styleElement.text(cssContent);
 
-$("head").append(styleElement);license
+$("head").append(styleElement);
 $("head").append(`<link
 rel="stylesheet"
 href="//at.alicdn.com/t/c/font_4519419_odihax4xyqh.css"
