@@ -1,6 +1,6 @@
 // ==UserScript==
 // @name                knife助手
-// @version             0.0.1
+// @version             0.1.0
 // @description         knife 生成typescript 代码
 // @namespace           https://github.com/Gerson-577
 // @author              gerson
