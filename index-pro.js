@@ -21,7 +21,7 @@ styleElement.text(cssContent);
 $("head").append(styleElement);
 $("head").append(`<link
 rel="stylesheet"
-href="//at.alicdn.com/t/c/font_4519419_odihax4xyqh.css"
+href="//at.alicdn.com/t/c/font_4519419_3o0j9chzhdr.css"
 />`);
 
 const toolBar = $(`
